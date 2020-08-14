@@ -1,10 +1,10 @@
-<img width="180px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
+<img width="180px" style="border-radius: 50%" bor src="/media/logo.png">
 
-# Node.js技术栈指南
+# sammi老师的分享
 
-- 本文档是作者从事 ```Node.js Developer``` 以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈，如果本文能为您得到帮助，请给予支持！
+- 本文档是sammi老师从事 ```少儿英语``` 以来的学习历程，旨在分享给大家一个较详细的学习教程，侧重点更倾向于 少儿英语 所涉及的技术栈，如果本文能为您得到帮助，请给予支持！
 
-[![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) [![forks](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap)
+[![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/jishouren/blogs) [![forks](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/jishouren/blogs)
 
-[GitHub](<https://github.com/Q-Angelo/Nodejs-Roadmap>)
+[GitHub](<https://github.com/jishouren/blogs>)
 [开始阅读](README.md)
