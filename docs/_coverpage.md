@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="/media/logo.png">
+<img width="180px" style="border-radius: 50%" bor src="media/logo.png">
 
 # sammi老师的分享
 
