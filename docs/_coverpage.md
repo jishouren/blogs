@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img width="180px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
 
 # Node.js技术栈指南
@@ -8,3 +9,12 @@
 
 [GitHub](<https://github.com/Q-Angelo/Nodejs-Roadmap>)
 [开始阅读](README.md)
+=======
+# 伟哥的装逼blogs
+
+> 我要开始装逼了
+
+
+[CSDN](https://blog.csdn.net/m0_37965018)
+[滚动鼠标](#introduction)
+>>>>>>> 0f74a3fa6cd01ef013878f2fe789511c9a80e009
